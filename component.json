@@ -1,0 +1,13 @@
+{
+  "name": "mime-video",
+  "version": "0.0.1",
+  "description": "video mime-types",
+  "repo": "ramitos/mime-video",
+  "keywords": ["video", "mime"],
+  "homepage": "https://github.com/ramitos/mime-video",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/video.types.js",
+  "scripts": ["src/video.types.js"]
+}
