@@ -1,3 +1,5 @@
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg?style=plastic)
+
 # mime-video
 
 mime types for video files. to be used with [ramitos/mime](https://github.com/ramitos/mime)
